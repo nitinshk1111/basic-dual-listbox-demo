@@ -7,5 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
 	source = [ 'Pawn', 'Rook', 'Knight', 'Bishop', 'Queen', 'King' ];
-	target = [];
+	target = ['abc'];
 }
